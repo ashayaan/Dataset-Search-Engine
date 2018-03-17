@@ -59,7 +59,6 @@ def extract_data(soup):
 		print data
 		print
 		data_list.append(data)
-		
 
 if __name__ == '__main__':
 	base_url = "https://catalog.data.gov/dataset?page="
